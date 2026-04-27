@@ -2,45 +2,63 @@
 
 # 👋 Hi, I'm Aman Saifi  
 
-🚀 **Aspiring Full Stack Developer** | **Full Stack Developer** | **Java & Spring Boot** | **WordPress Designer & Developer** | **Data Structures & Algorithms** | Exploring **AI/ML** in Software Development  
+🚀 **WordPress Developer** | ⚙️ **Spring Boot (Backend)** | 💡 Building Scalable & Client-Focused Web Solutions  
 
 ---
 
 ## 🔹 About Me  
 
-🚀 Skilled in **Java backend development** using **Spring Boot**  
-🌐 Experienced in **WordPress full-stack solutions** & **custom web development**  
-⚡ Strong foundation in **Data Structures & Algorithms (DSA)**  
-📚 Exploring **AI/ML-powered software development tools**  
-🛠️ Balanced focus on **scalable systems** and **user-centric design**  
+💻 Specialized in **WordPress development** — custom themes, performance optimization & client-based solutions  
+⚙️ Experienced in **Java backend development with Spring Boot** for scalable APIs  
+🌐 Focused on building **real-world, production-ready applications**  
+📈 Strong understanding of **web performance, UX, and clean architecture**  
+🧠 Background in **Data Structures & Algorithms**  
 
 ---
 
 ## 🔧 Tech Stack  
 
-- **Languages:** Java, JavaScript, Python, PHP, SQL  
-- **Backend:** Spring Boot, Hibernate, REST APIs, Spring MVC 
-- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React  
-- **Database:** MySQL, PostgreSQL  
-- **CMS & Tools:** WordPress Development, Elementor, Git, GitHub, VS Code, IntelliJ IDEA  
-- **Other Skills:** Data Structures & Algorithms, OOPs, Operating System, DBMS, System Design basics  
+### 🖥️ WordPress & Frontend  
+- WordPress Development, Elementor, Custom Themes, Divi Builder, WooCommerce
+- HTML, CSS, JavaScript, Tailwind CSS  
+
+### ⚙️ Backend Development  
+- Java, Spring Boot, REST APIs, Hibernate, Spring MVC  
+
+### 🗄️ Database  
+- MySQL, PostgreSQL  
+
+### 🛠️ Tools & Workflow  
+- Git, GitHub, VS Code, IntelliJ IDEA  
+
+### 🧠 Core Concepts  
+- Data Structures & Algorithms  
+- OOPs, DBMS, Operating Systems  
+- System Design (Basics)  
 
 ---
 
-## 🌱 What I’m Learning Next  
+## 🚀 What I’m Working On  
 
-- **Advanced Spring Boot & Microservices**  
-- **AI/ML integration in full-stack development**  
-- **Scaling applications with cloud-based solutions**   
+- 🔧 Building **high-converting WordPress websites for clients**  
+- 📦 Improving **project architecture & scalability**  
+
+---
+
+## 🌱 Currently Learning  
+
+- Advanced **WordPress customization & performance tuning**   
+- Integrating **AI tools into web development workflows**  
 
 ---
 
 ## 📫 Connect with Me  
+
 - 🌐 [LinkedIn](https://www.linkedin.com/in/amannex)  
 - 📱 [Instagram](https://www.instagram.com/amannex_/)  
 - 💻 [GitHub](https://github.com/saifiaman)  
-- 🏢 [Buiding @Markencia](https://www.markencia.com)  
+- 🏢 Building @ [Markencia](https://www.markencia.com)  
 
 ---
 
-✨ *"Code is like humor. When you have to explain it, it’s bad."*  
+✨ *"Build solutions that people actually use — not just projects that look good."*
