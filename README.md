@@ -10,13 +10,13 @@ Passionate Full-Stack Developer with experience in building scalable web applica
 
 ## 🔹 About Me  
 
-🎓 B.Tech CSE Student at BIET Jhansi (SGPA: 8.58/10)
-💻 Experienced in Full-Stack Development using Java, Spring Boot, React, and WordPress
-🌐 Built and customized 10+ client websites with WordPress
-⚡ Passionate about Backend Development and API Design
-📈 Focused on Performance Optimization, Scalability, and User Experience
-🧠 Strong foundation in Data Structures, Algorithms, DBMS, OS, and Computer Networks
-🚀 Always learning and building real-world projects
+- 🎓 B.Tech CSE Student at BIET Jhansi (SGPA: 8.58/10)
+- 💻 Experienced in Full-Stack Development using Java, Spring Boot, React, and WordPress
+- 🌐 Built and customized 10+ client websites with WordPress
+- ⚡ Passionate about Backend Development and API Design
+- 📈 Focused on Performance Optimization, Scalability, and User Experience
+- 🧠 Strong foundation in Data Structures, Algorithms, DBMS, OS, and Computer Networks
+- 🚀 Always learning and building real-world projects
 ---
 
 ## 🔧 Tech Stack  
@@ -73,7 +73,7 @@ Passionate Full-Stack Developer with experience in building scalable web applica
 - 🎨 Advanced **WordPress Theme Development**
 - 🔌 Custom **WordPress Plugin Development**
 - ⚡ **WordPress Performance** Optimization & Security
- -🤖 **AI Technologies** and their implementation in WordPress ecosystems 
+- 🤖 **AI Technologies** and their implementation in WordPress ecosystems 
 
 ---
 
@@ -87,5 +87,5 @@ Passionate Full-Stack Developer with experience in building scalable web applica
 ---
 
 ## 💭 Developer Quote
-✨ *"Build solutions that people actually use — not just projects that look good."*
-⭐ *"If you like my work, consider starring my repositories!"*
+- ✨ *"Build solutions that people actually use — not just projects that look good."*
+- ⭐ *"If you like my work, consider starring my repositories!"*
