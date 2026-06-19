@@ -10,7 +10,7 @@ Passionate Full-Stack Developer with experience in building scalable web applica
 
 ## 🔹 About Me  
 
-- 🎓 B.Tech CSE Student at BIET Jhansi (SGPA: 8.58/10)
+- 🎓 B.Tech CSE Student at BIET Jhansi (SGPA: 7.85/10)
 - 💻 Experienced in Full-Stack Development using Java, Spring Boot, React, and WordPress
 - 🌐 Built and customized 10+ client websites with WordPress
 - ⚡ Passionate about Backend Development and API Design
