@@ -56,7 +56,6 @@ Passionate Full-Stack Developer with experience in building scalable web applica
 - Postman
 - Maven
 - Gradle
-- Docker (Basic)
 
 ---
 
