@@ -59,14 +59,6 @@ Passionate Full-Stack Developer with experience in building scalable web applica
 
 ---
 
-## 🚀 What I’m Working On  
-
-- 🏢 Building **Markencia**, an AI-powered digital marketing and web solutions agency
-- 🤖 Exploring ways to integrate **AI technologies into WordPress** workflows and business automation
-- 💡 Building products and solutions that solve **real-world problems** and create meaningful impact
-
----
-
 ## 🌱 Currently Learning  
 
 - 🎨 Advanced **WordPress Theme Development**
