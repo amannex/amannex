@@ -27,7 +27,8 @@ Passionate Full-Stack Developer with experience in building scalable web applica
 - JavaScript
 - PHP
 - Python
-- SQL 
+- SQL
+- **Programming Languages** : Java, C#, Javascript, PHP, Python, SQL
 
 ### 🌐 Frontend Development
 - React
