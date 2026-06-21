@@ -24,7 +24,7 @@ Passionate Full-Stack Developer with experience in building scalable web applica
 - **Fronted Development**: React, HTML5, CSS3, Responsive Design
 - **Backend Development**: Spring Boot, REST APIs, JWT Authentication
 - **Database**: MySQL
-- **CMS and Web Development: WordPress, Elementor, WooCommerce, WP-CLI
+- **CMS and Web Development**: WordPress, Elementor, WooCommerce, WP-CLI
 - **Tools & Workflows**: Git, GitHub, Postman, Maven, Gradle
 
 ---
