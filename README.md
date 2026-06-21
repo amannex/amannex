@@ -20,43 +20,12 @@ Passionate Full-Stack Developer with experience in building scalable web applica
 ---
 
 ## 🔧 Tech Stack  
-
-### 💻 Programming Languages 
-- Java
-- C#
-- JavaScript
-- PHP
-- Python
-- SQL
-- **Programming Languages** : Java, C#, Javascript, PHP, Python, SQL
-
-### 🌐 Frontend Development
-- React
-- HTML5
-- CSS3
-- Responsive Design
-
-### ⚙️ Backend Development
-- Spring Boot
-- REST APIs
-- Hibernate
-- JWT Authentication
-
-### 🗄️ Database  
-- MySQL 
-
-### 🧩 CMS & Web Development
-- WordPress
-- Elementor
-- WooCommerce
-- WP-CLI
-
-### 🛠️ Tools & Workflow  
-- Git
-- GitHub
-- Postman
-- Maven
-- Gradle
+- **Programming Languages**: Java, C#, Javascript, PHP, Python, SQL
+- **Fronted Development**: React, HTML5, CSS3, Responsive Design
+- **Backend Development**: Spring Boot, REST APIs, JWT Authentication
+- **Database**: MySQL
+- **CMS and Web Development: WordPress, Elementor, WooCommerce, WP-CLI
+- **Tools & Workflows**: Git, GitHub, Postman, Maven, Gradle
 
 ---
 
